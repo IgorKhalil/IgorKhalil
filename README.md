@@ -29,11 +29,11 @@
 
 <div display="flex" >
   
-  ### ✍️ Citação Aleatórias
+  ### ✍🏻 Citação Aleatórias
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
-  ### 😂 Memes Aleatórios
+  ### 🙊 Memes Aleatórios
   <img src='https://randommeme-five.vercel.app/' style="height: 255px;"/>
 </div>
 

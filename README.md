@@ -1,7 +1,7 @@
 # 👽 Sobre mim:
 🔭 Atualmente estou cursando Ciência da Computação pela UFMA<br>👻 Estudando C e outra linguagens de programação<br>💬 Sou técnico em eletrônica pelo IFMA<br>🕹 Adoro jogar e desenvolver jogos nas horas vagas.
 
-# 🖥️ Tech Stack:
+# 🖥️ Tecnologias:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -20,23 +20,23 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
 </div>
 
-# 📊 GitHub Stats:
+# 📊 GitHub Estatísticas:
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IgorKhalil&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=IgorKhalil&locale=pt-br&mode=daily&theme=algolia&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=IgorKhalil&radius=16&theme=tokyo-night&area=true&order=5&hide_border=false&hide_title=false" height="255" alt="activity-graph graph"  />
 </div>
 
-### 🔝 Top Contributed Repo
+### 🔝 Top Contribuições
 ![](https://github-contributor-stats.vercel.app/api?username=IgorKhalil&limit=5&theme=algolia&combine_all_yearly_contributions=true)
 
 <div display="flex" >
   
-  ### ✍️ Random Dev Quote
+  ### ✍️ Citação Aleatórias
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
-  ### 😂 Random Dev Meme
+  ### 😂 Memes Aleatórios
   <img src='https://randommeme-five.vercel.app/' style="height: 255px;"/>
 </div>
 

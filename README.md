@@ -30,12 +30,15 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=IgorKhalil&limit=5&theme=algolia&combine_all_yearly_contributions=true)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<div display="flex" >
+  
+  ### ✍️ Random Dev Quote
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+  ### 😂 Random Dev Meme
+  <img src='https://randommeme-five.vercel.app/' style="height: 255px;"/>
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=IgorKhalil&icon=0&color=1)](https://visitcount.itsvg.in)

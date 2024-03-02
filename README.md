@@ -27,9 +27,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=IgorKhalil&radius=16&theme=tokyo-night&area=true&order=5&hide_border=false&hide_title=false" height="255" alt="activity-graph graph"  />
 </div>
 
-### 🔝 Top Contribuições
-![](https://github-contributor-stats.vercel.app/api?username=IgorKhalil&limit=5&theme=algolia&combine_all_yearly_contributions=true)
-
 <div display="flex" >
   
   ### ✍️ Citação Aleatórias

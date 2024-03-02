@@ -38,5 +38,6 @@
 </div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=IgorKhalil&icon=0&color=1)](https://visitcount.itsvg.in)
-
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=IgorKhalil&label=Visualiza%C3%A7%C3%A3o%20de%20perfil&color=6&icon=0&pretty=true" />
+</a>
